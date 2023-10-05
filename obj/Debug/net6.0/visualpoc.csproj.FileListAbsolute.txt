@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\visualpoc\bin\Debug\net6.0\visualpoc.exe
+C:\Users\hoang\source\repos\visualpoc\bin\Debug\net6.0\visualpoc.deps.json
+C:\Users\hoang\source\repos\visualpoc\bin\Debug\net6.0\visualpoc.runtimeconfig.json
+C:\Users\hoang\source\repos\visualpoc\bin\Debug\net6.0\visualpoc.dll
+C:\Users\hoang\source\repos\visualpoc\bin\Debug\net6.0\visualpoc.pdb
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.AssemblyInfo.cs
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.dll
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\refint\visualpoc.dll
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.pdb
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\visualpoc.genruntimeconfig.cache
+C:\Users\hoang\source\repos\visualpoc\obj\Debug\net6.0\ref\visualpoc.dll
